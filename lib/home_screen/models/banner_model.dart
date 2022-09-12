@@ -1,4 +1,5 @@
 class BannerModel {
+  
   String image;
   String offerPrize;
   String orginalPrize;
