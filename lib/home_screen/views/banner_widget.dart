@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:grocery_app/constends/box.dart';
 import 'package:grocery_app/constends/colors.dart';
+// ignore: depend_on_referenced_packages
 import 'package:card_swiper/card_swiper.dart';
 import 'package:grocery_app/home_screen/controllers/banner_controller..dart';
 
