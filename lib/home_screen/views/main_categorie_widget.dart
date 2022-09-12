@@ -31,7 +31,7 @@ class MainCategoryWidget extends StatelessWidget {
             child: Iconify(
               Ph.stack_fill,
               color: whiteColor,
-              size: 30,
+              size: 31,
             ),
           ),
           const StdTextWidget(text: "Main"),
