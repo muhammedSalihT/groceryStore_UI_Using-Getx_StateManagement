@@ -45,7 +45,7 @@ class HomeScreen extends StatelessWidget {
                       unselectedLabelColor: greyColor,
                       tabs: [
                         Tab(
-                          text: "Tab 1",
+                          text: 'Tab 1',
                         ),
                         Tab(
                           text: "Tab 2",
