@@ -1,6 +1,7 @@
 import 'package:get/get.dart';
 import 'package:grocery_app/home_screen/models/products_details_model.dart';
 
+
 class ProductsListController extends GetxController {
   List<ProductDetailsModel> productdetails = [
     ProductDetailsModel(
