@@ -1,7 +1,6 @@
-// ignore: file_names
 import 'package:flutter/material.dart';
 import 'package:grocery_app/constends/box.dart';
-import 'package:iconify_flutter/iconify_flutter.dart'; 
+import 'package:iconify_flutter/iconify_flutter.dart';
 import 'package:iconify_flutter/icons/ph.dart';
 import 'package:iconify_flutter/icons/uis.dart';
 
