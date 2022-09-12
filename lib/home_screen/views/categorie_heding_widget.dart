@@ -19,7 +19,7 @@ class CategorieHedingWidget extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              "#$categorieName",
+              '#$categorieName',
               style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 15),
             ),
             const Text(
