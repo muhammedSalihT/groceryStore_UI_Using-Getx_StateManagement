@@ -8,6 +8,7 @@ class HorizontalViewWidget extends StatelessWidget {
 
   final IndexedWidgetBuilder horizontalViewWidget;
 
+
   @override
   Widget build(BuildContext context) {
     return LimitedBox(

@@ -18,6 +18,7 @@ class ProductDetailsWidget extends StatelessWidget {
 
   final productsListController = Get.find<ProductsListController>();
 
+
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
