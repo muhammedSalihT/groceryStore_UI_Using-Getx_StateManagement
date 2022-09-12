@@ -10,7 +10,7 @@ class TopUsers extends StatelessWidget {
   }) : super(key: key);
 
   final int index;
-  final topUsersController = Get.put(TopUsersController());
+  final topUsersController =Get.put(TopUsersController());
 
   @override
   Widget build(BuildContext context) {
