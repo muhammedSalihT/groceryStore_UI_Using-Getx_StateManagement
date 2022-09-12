@@ -13,7 +13,7 @@ class AppBarWidget extends StatelessWidget {
     return Row(
       children: [
         const SizedBox(
-          width: 15,
+          width: 14,
         ),
         Stack(
           children: [
