@@ -8,7 +8,7 @@ class ProductsListWidget extends StatelessWidget {
     Key? key,
   }) : super(key: key);
 
-  final productsListController = Get.put(ProductsListController());
+  final productsListController =Get.put(ProductsListController());
 
   @override
   Widget build(BuildContext context) {
